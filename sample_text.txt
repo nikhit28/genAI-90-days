@@ -1,0 +1,9 @@
+Reading files using with open
+
+Cleaning text using regex
+
+Lowercasing text
+
+Removing noise (symbols, extra spaces)
+
+📌 This is exactly what happens before text is sent to an LLM
